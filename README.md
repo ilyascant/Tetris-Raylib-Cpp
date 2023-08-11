@@ -1,5 +1,5 @@
 # Tetris-Raylib-Cpp
-a Simple Tetris Game made with Raylib C++<br/>
+## a Simple Tetris Game made with Raylib C++<br/>
 
 
 KEY LEFT, KEY DOWN, KEY RIGHT -> For block control.<br/>
