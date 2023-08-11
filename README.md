@@ -1,11 +1,11 @@
 # Tetris-Raylib-Cpp
-a Simple Tetris Game made with Raylib C++
+a Simple Tetris Game made with Raylib C++<br/>
 
 
-KEY LEFT, KEY DOWN, KEY RIGHT -> For block control.
-KEY UP -> For rotate block.
-KEY R -> For restart.
-KEY P -> For Pause.
+KEY LEFT, KEY DOWN, KEY RIGHT -> For block control.<br/>
+KEY UP -> For rotate block.<br/>
+KEY R -> For restart.<br/>
+KEY P -> For Pause.<br/>
 
 Each row combo earns 250 Points.
 Each block placement earns 25 Points.
