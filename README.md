@@ -7,9 +7,9 @@ KEY UP -> For rotate block.<br/>
 KEY R -> For restart.<br/>
 KEY P -> For Pause.<br/>
 
-Each row combo earns 250 Points.
-Each block placement earns 25 Points.
-Moving block at top speed earns 1 Points for each .1 seconds.
+Each row combo earns 250 Points.<br/>
+Each block placement earns 25 Points.<br/>
+Moving block at top speed earns 1 Points for each 1/10 seconds.<br/>
 
 ![Game itself](https://github.com/ilyascant/Tetris-Raylib-Cpp/assets/79863003/a3c23833-3e91-4daa-83e8-0ec0665e0008)
 
